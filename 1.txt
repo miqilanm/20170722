@@ -256,3 +256,20 @@
   256  vi index.txt
   257  history 1.txt
   258  history 1>1.txt
+  259  vi index.txt
+  260  cat index.txt
+  261  git add .
+  262  git status
+  263  git checkout master
+  264  git checkout dev
+  265  git commit -m"zhu"
+  266  git checkout master
+  267  cat index.txt
+  268  git checkout master
+  269  git checkout dev
+  270  git checkout master
+  271  git stash
+  272  git checkout master
+  273  git checkout dev
+  274  git stash pop
+  275  history 1>1.txt
